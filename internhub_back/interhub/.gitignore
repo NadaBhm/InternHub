@@ -1,0 +1,7 @@
+target/
+.classpath
+.project
+.settings/
+uploads/
+internhub_back/interhub/target/
+internhub_back/interhub/uploads/

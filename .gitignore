@@ -1,0 +1,8 @@
+frontend/modern/node_modules/
+frontend/modern/dist/
+frontend/modern/.angular/
+internhub_back/interhub/target/
+internhub_back/interhub/uploads/
+.env
+.env.*
+!.env.example
